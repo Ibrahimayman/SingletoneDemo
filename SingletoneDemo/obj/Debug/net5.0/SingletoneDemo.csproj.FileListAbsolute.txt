@@ -1,0 +1,16 @@
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\SingletoneDemo.exe
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\SingletoneDemo.deps.json
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\SingletoneDemo.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\SingletoneDemo.runtimeconfig.dev.json
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\SingletoneDemo.dll
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\ref\SingletoneDemo.dll
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\SingletoneDemo.pdb
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.dll
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\ref\SingletoneDemo.dll
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.pdb
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.genruntimeconfig.cache
