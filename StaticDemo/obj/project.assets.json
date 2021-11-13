@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Logger/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Logger.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Logger.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Logger/1.0.0": {
-      "type": "project",
-      "path": "../Logger/Logger.csproj",
-      "msbuildProject": "../Logger/Logger.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Logger >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Ibrahim\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\SingletoneDemo\\SingletoneDemo.csproj",
-      "projectName": "SingletoneDemo",
-      "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\SingletoneDemo\\SingletoneDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\StaticDemo\\StaticDemo.csproj",
+      "projectName": "StaticDemo",
+      "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\StaticDemo\\StaticDemo.csproj",
       "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\SingletoneDemo\\obj\\",
+      "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\StaticDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\Logger\\Logger.csproj": {
-              "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\SingletoneDemo\\Logger\\Logger.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

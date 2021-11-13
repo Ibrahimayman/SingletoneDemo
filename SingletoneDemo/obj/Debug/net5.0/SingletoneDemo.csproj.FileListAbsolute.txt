@@ -14,3 +14,6 @@ C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\Sin
 C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\ref\SingletoneDemo.dll
 C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.pdb
 C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\Logger.dll
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\bin\Debug\net5.0\Logger.pdb
+C:\Users\Ibrahim\source\repos\SingletoneDemo\SingletoneDemo\obj\Debug\net5.0\SingletoneDemo.csproj.CopyComplete

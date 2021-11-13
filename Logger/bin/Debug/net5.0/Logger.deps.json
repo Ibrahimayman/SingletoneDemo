@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "SingletoneDemo/1.0.0": {
-        "dependencies": {
-          "Logger": "1.0.0"
-        },
-        "runtime": {
-          "SingletoneDemo.dll": {}
-        }
-      },
       "Logger/1.0.0": {
         "runtime": {
           "Logger.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "SingletoneDemo/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Logger/1.0.0": {
       "type": "project",
       "serviceable": false,

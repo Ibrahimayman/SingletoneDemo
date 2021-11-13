@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Logger;
+using System;
 
 namespace SingletoneDemo
 {
@@ -6,7 +7,7 @@ namespace SingletoneDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Logger.Log.GetInstance.LogException("Test log");
         }
     }
 }
